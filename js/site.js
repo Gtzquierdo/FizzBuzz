@@ -83,7 +83,6 @@ function displayData(fbArray) {
 
     }
 
-    // Add all the rows to the table
 
 
 }
